@@ -18,7 +18,8 @@ function App() {
         >
           Learn React
         </a>
-        <p>For datass!!</p>
+        <p>For my followers!!</p>
+        <p>Yes!!!</p>
       </header>
     </div>
   );
